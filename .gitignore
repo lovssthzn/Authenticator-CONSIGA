@@ -1,0 +1,21 @@
+# Build outputs
+dist/
+build/
+*.spec
+.gitignore
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments
+.venv/
+venv/
+env/
+
+# IDE / System
+.vscode/
+.idea/
+.gemini/
+*.log
